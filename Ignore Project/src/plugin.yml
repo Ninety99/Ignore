@@ -1,0 +1,12 @@
+name: Ignore
+main: me.NinetyNine.ignore.Ignore
+version: 1.0
+author: 99&Jdz
+description: An ignore plugin.
+commands: 
+  ignore:
+    usage: /<command>
+    description:
+  msgignore:
+    usage: /<command>
+    description:
